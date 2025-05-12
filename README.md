@@ -70,3 +70,7 @@ Projeto de análise exploratória de dados de uma loja virtual fictícia, a **Al
    ```
 
 ---
+## 🏅 Certificação
+Fui reconhecido com a seguinte Badge pelo programa ONE (Oracle Next Education), uma iniciativa da Alura Latam em parceria com a Oracle:
+
+![Desafio Alura](https://cdn1.gnarususercontent.com.br/1/853787/8f040dbd-f9e9-4ccf-b67a-ecdf1ef9bd80.png)
