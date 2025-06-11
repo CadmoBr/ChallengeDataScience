@@ -68,7 +68,19 @@ Projeto de análise exploratória de dados de uma loja virtual fictícia, a **Al
    ```bash
    jupyter notebook AluraStoreBr.ipynb
    ```
+
+
+### 📊 Visualizações dos resultados
+
+#### Categoria de produto mais vendido dentre as lojas
 ![Analisando qual categoria foi a mais vendida dentre as lojas](vendas_categoria.png)
+
+#### Média de Frete por Loja
+![Média de Frete por Loja](frete.png)
+
+#### Média de Avaliações por Loja
+![Média de Avaliações por Loja](avaliacao.png)
+
 
 ---
 ## 🏅 Certificação
